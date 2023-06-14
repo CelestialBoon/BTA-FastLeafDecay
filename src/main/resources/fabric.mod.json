@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "examplemod",
+  "id": "fast-leaf-decay",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This mod aims to help new BTA modders.",
+  "name": "Fast Leaf Decay",
+  "description": "Cut tree fall fast",
   "authors": [
-    "Turnip Labs"
+    "Levistico"
   ],
   "contact": {
     "homepage": "",
@@ -18,7 +18,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-        "turniplabs.examplemod.ExampleMod"
+        "levistico.fastleafdecay.Main"
     ]
   },
   "mixins": [
